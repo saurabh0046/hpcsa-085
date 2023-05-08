@@ -1,0 +1,13 @@
+echo "# hpcsa_program" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/indra7011/hpcsa_program.git
+git push -u origin main
+
+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   unique code
+
+indra7011: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
+
+git remote add origin https://indra7011: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@github.com/indra7011/hpcsa_program.git
